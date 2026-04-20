@@ -1,0 +1,23 @@
+<resources>
+    <!-- Default margins/padding -->
+    <dimen name="default_margin">16dp</dimen>
+    <dimen name="small_margin">8dp</dimen>
+    <dimen name="tiny_margin">4dp</dimen>
+
+    <!-- Card styling -->
+    <dimen name="card_corner_radius">8dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+
+    <!-- Text sizes -->
+    <dimen name="title_text_size">22sp</dimen>
+    <dimen name="headline_text_size">20sp</dimen>
+    <dimen name="body_text_size">16sp</dimen>
+    <dimen name="caption_text_size">14sp</dimen>
+
+    <!-- Button heights -->
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_min_width">88dp</dimen>
+
+    <!-- RecyclerView item spacing -->
+    <dimen name="item_spacing">8dp</dimen>
+</resources>

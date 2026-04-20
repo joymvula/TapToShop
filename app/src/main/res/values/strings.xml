@@ -1,0 +1,212 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">Tap to Shop</string>
+    <string name="Tap_to_Shop">Tap to Shop</string>
+
+    <!-- Auth screens -->
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Full name</string>
+    <string name="action_login">Login</string>
+    <string name="action_go_register">Create account</string>
+
+    <!-- Errors -->
+    <string name="error_fill_all_fields">Please fill in all fields</string>
+    <string name="error_invalid_credentials">Invalid email or password</string>
+    <string name="error_register_failed">Registration failed</string>
+    <string name="error_empty_cart">Your cart is empty</string>
+    <string name="error_not_logged_in">Please log in to view orders</string>
+    <string name="error_load_orders">Failed to load orders</string>
+
+    <!-- Success messages -->
+    <string name="message_register_success">Account created successfully</string>
+    <string name="message_added_to_cart">Added to cart</string>
+    <string name="message_language_saved">Language saved</string>
+
+    <!-- UI states -->
+    <string name="message_no_products">No products available</string>
+    <string name="message_no_orders">No orders yet</string>
+
+    <!-- Navigation -->
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Cart</string>
+    <string name="menu_profile">Profile</string>
+    <string name="action_my_orders">My Orders</string>
+    <string name="action_logout">Logout</string>
+
+    <!-- Format strings -->
+    <string name="label_order_id">Order #%1$d</string>
+
+    <string name="about_app">Tap to Shop - Mobile Shopping Application\n\nVersion 1.0\n\nA lightweight Android shopping app with Firebase Auth, SQLite products/cart, and cloud order sync.</string>
+
+    <string name="desc_product_image">Product Image</string>
+    <string name="btn_add_to_cart">Add to Cart</string>
+    <string name="msg_added_to_cart">%1$s added to cart</string>
+
+    <string name="change_language">Change Language</string>
+    <string name="about">About</string>
+    <string name="action_continue_shopping">Continue Shopping</string>
+
+    <string name="label_cart_total">K %1$.2f</string>
+    <string name="action_checkout">Checkout</string>
+
+    <string name="lang_english">English</string>
+    <string name="lang_nyanja">Nyanja</string>
+    <string name="lang_bemba">Bemba</string>
+    <string name="label_status">Status:</string>
+    <string name="action_ok">OK</string>
+
+    <string name="back_to_home">Back to Home</string>
+    <string name="view_details">View Details</string>
+
+    <string name="order_id_format">Order #%d</string>
+
+
+
+    <string name="select_payment_method">Select Payment Method</string>
+    <string name="credit_card">Credit / Debit Card</string>
+    <string name="mobile_money">Mobile Money (Airtel, TNM)</string>
+    <string name="cash_on_delivery">Cash on Delivery</string>
+    <string name="paypal">PayPal</string>
+    <string name="processing_payment">Processing Payment</string>
+    <string name="payment_successful">Payment Successful!</string>
+    <string name="order_placed">Order Placed Successfully</string>
+
+
+    <!-- Order item placeholders -->
+    <string name="order_id_placeholder">Order #1</string>
+    <string name="date_placeholder">01/01/2026 10:00</string>
+    <string name="total_placeholder">K 0.00</string>
+    <string name="status_placeholder">PENDING</string>
+
+
+    <!-- My Orders Screen -->
+    <string name="no_orders_title">No orders yet</string>
+    <string name="no_orders_message">You haven\'t made any orders.\nStart shopping to place your first order!</string>
+    <string name="shop_now">SHOP NOW</string>
+    <string name="my_orders">My Orders</string>
+
+    <!-- File: app/src/main/res/values/strings.xml -->
+
+
+    <!-- Activity Titles -->
+    <string name="title_login">Login</string>
+    <string name="title_register">Create Account</string>
+    <string name="title_home">Home</string>
+    <string name="title_cart">Cart</string>
+    <string name="title_profile">Profile</string>
+
+    <!-- Button Texts -->
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_logout">Logout</string>
+    <string name="btn_save">Save</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_shop_now">Shop Now</string>
+    <string name="btn_back_to_home">Back to Home</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="btn_place_order">Place Order</string>
+    <string name="btn_continue_shopping">Continue Shopping</string>
+    <string name="btn_go_to_login">Go to Login</string>
+    <string name="btn_go_to_register">Go to Register</string>
+
+    <!-- Button Status Texts -->
+    <string name="logging_in">Logging in</string>
+    <string name="creating_account">Creating Account</string>
+    <string name="processing">Processing</string>
+
+    <!-- Hint Texts -->
+    <string name="hint_full_name">Full Name</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="hint_phone">Phone Number</string>
+    <string name="hint_address">Address</string>
+    <string name="hint_search">Search products</string>
+
+    <!-- Link Texts -->
+    <string name="link_already_have_account">Already have an account? </string>
+    <string name="link_dont_have_account">Don\'t have an account? </string>
+    <string name="link_login">Login</string>
+    <string name="link_register">Register</string>
+    <string name="link_forgot_password">Forgot Password?</string>
+
+    <!-- Error Messages -->
+    <string name="error_passwords_not_match">Passwords do not match</string>
+    <string name="error_password_too_short">Password must be at least 6 characters</string>
+    <string name="error_invalid_email">Invalid email address</string>
+    <string name="error_network">Network error. Please try again</string>
+    <string name="error_general">Something went wrong. Please try again</string>
+    <string name="error_user_not_found">User not found</string>
+    <string name="error_firebase_user_null">Error: Firebase user is null</string>
+
+    <!-- Success Messages -->
+    <string name="success_registration">Registration successful!</string>
+    <string name="success_login">Login successful!</string>
+    <string name="success_logout">Logged out successfully</string>
+    <string name="success_order_placed">Order placed successfully!</string>
+    <string name="success_profile_updated">Profile updated successfully</string>
+
+    <!-- Warning Messages -->
+    <string name="warning_cloud_sync_failed">Registration successful, but cloud sync failed</string>
+    <string name="warning_no_internet">No internet connection</string>
+
+    <!-- Empty State Messages -->
+    <string name="empty_cart">Your cart is empty</string>
+    <string name="empty_orders">No orders found</string>
+    <string name="empty_products">No products available</string>
+
+    <!-- Product Related -->
+    <string name="label_price">Price</string>
+    <string name="label_quantity">Quantity</string>
+    <string name="label_total">Total</string>
+    <string name="label_subtotal">Subtotal</string>
+    <string name="label_shipping">Shipping</string>
+    <string name="label_tax">Tax</string>
+    <string name="label_products">Products</string>
+    <string name="label_description">Description</string>
+
+    <!-- Order Related -->
+    <string name="label_order_date">Order Date</string>
+    <string name="label_order_status">Status</string>
+    <string name="label_payment_method">Payment Method</string>
+    <string name="label_shipping_address">Shipping Address</string>
+    <string name="label_order_summary">Order Summary</string>
+    <string name="label_status_pending">Pending</string>
+    <string name="label_status_processing">Processing</string>
+    <string name="label_status_shipped">Shipped</string>
+    <string name="label_status_delivered">Delivered</string>
+    <string name="label_status_cancelled">Cancelled</string>
+
+    <!-- User Related -->
+    <string name="label_name">Name</string>
+    <string name="label_email">Email</string>
+    <string name="label_phone">Phone</string>
+    <string name="label_address">Address</string>
+    <string name="label_edit_profile">Edit Profile</string>
+    <string name="label_my_orders">My Orders</string>
+    <string name="label_settings">Settings</string>
+
+    <!-- Payment Methods -->
+    <string name="payment_cash_on_delivery">Cash on Delivery</string>
+    <string name="payment_mobile_money">Mobile Money</string>
+    <string name="payment_card">Credit/Debit Card</string>
+
+    <!-- Zambian Products (from your seed data) -->
+    <string name="product_chibwantu">Chibwantu</string>
+    <string name="product_chibwantu_desc">Traditional fermented maize drink</string>
+    <string name="product_chikanda">Chikanda</string>
+    <string name="product_chikanda_desc">Traditional African Polony snack</string>
+    <string name="product_ifinkubala">Ifinkubala</string>
+    <string name="product_ifinkubala_desc">High-protein dried mopane worms</string>
+    <string name="product_citenge">Citenge Fabric</string>
+    <string name="product_citenge_desc">Traditional 6-yard cotton print</string>
+    <string name="product_mongu_rice">Mongu Rice</string>
+    <string name="product_mongu_rice_desc">Premium aromatic Barotse plains rice</string>
+    <string name="order_label">Order #1</string>
+
+
+</resources>
+
+
+
+

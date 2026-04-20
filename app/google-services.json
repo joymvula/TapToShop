@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463274887993",
+    "project_id": "tap2shop-f8ea7",
+    "storage_bucket": "tap2shop-f8ea7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463274887993:android:ed75d899d81a8d4ebdf6e8",
+        "android_client_info": {
+          "package_name": "com.example.tap2shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAApROUPeSPkwrIpIjsmap7vqV7D7BEwHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

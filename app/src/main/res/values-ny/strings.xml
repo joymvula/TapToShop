@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tap to Shop</string>
+    <string name="Tap_to_Shop">Tap to Shop</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Chinsinsi</string>
+    <string name="hint_name">Dzina lonse</string>
+    <string name="action_login">Lowani</string>
+    <string name="action_go_register">Pangani akaunti</string>
+    <string name="error_fill_all_fields">Chonde lembani mmalo onse</string>
+    <string name="error_invalid_credentials">Email kapena chinsinsi ncholakwika</string>
+    <string name="error_register_failed">Kulembetsa kwalephera</string>
+    <string name="error_empty_cart">Dengu lanu lilibe kanthu</string>
+    <string name="error_not_logged_in">Chonde lowani kuti muone zimene munagula</string>
+    <string name="error_load_orders">Zalephera kupeza zimene munagula</string>
+    <string name="message_register_success">Mwalembetsa bwinobwino</string>
+    <string name="message_added_to_cart">Zaikidwa mdengu</string>
+    <string name="message_language_saved">Chilankhulo chasungidwa</string>
+    <string name="message_no_products">Palibe katundu</string>
+    <string name="message_no_orders">Simunagulepo kalikonse</string>
+    <string name="menu_home">Pakhomo</string>
+    <string name="menu_cart">Dengu</string>
+    <string name="menu_profile">Zanga</string>
+    <string name="action_my_orders">Zimene ndinagula</string>
+    <string name="action_logout">Tulukani</string>
+    <string name="label_order_id">Nambala ya kugula #%1$d</string>
+    <string name="change_language">Chinjani chitundu</string>
+    <string name="about">pali ise</string>
+    <string name="about_app">Tap to Shop - Mobile Shopping Application\n\nVersion 1.0\n\nA lightweight Android shopping app with Firebase Auth, SQLite products/cart, and cloud order sync.</string>
+    <string name="desc_product_image">Pikicha</string>
+    <string name="btn_add_to_cart">Fakani mu basiketi</string>
+    <string name="msg_added_to_cart">%1$s Muwa faka mubasiketi</string>
+    <string name="action_continue_shopping">Pitirizani kugula</string>
+    <string name="action_checkout">Limbikitsani kugula</string>
+    <string name="label_cart_total">K %1$.2f</string>
+    <string name="lang_english">Chizungu</string>
+    <string name="lang_nyanja">ChiNyanja</string>
+    <string name="lang_bemba">ChiBemba</string>
+    <string name="label_address">Malo:</string>
+    <string name="label_phone">Lamya:</string>
+    <string name="label_status">Zimene zilipo:</string>
+    <string name="action_ok">Chabwino</string>
+    <string name="back_to_home">Bwerera Kumapepala</string>
+    <string name="view_details">Onani Zambiri</string>
+    <string name="order_id_format">Nambala ya kugula #%d</string>
+
+    <!-- Nyanja/Chichewa Translations -->
+    <string name="select_payment_method">Sankhani njira yolipirira</string>
+    <string name="credit_card">Credit / Debit Card</string>
+    <string name="mobile_money">Mobile Money (Airtel, TNM)</string>
+    <string name="cash_on_delivery">Lipirani pokalandila</string>
+    <string name="paypal">PayPal</string>
+    <string name="processing_payment">Kukonzekera malipiro</string>
+    <string name="payment_successful">Malipiro achitika bwino</string>
+    <string name="order_placed">Order yalandilidwa bwino</string>
+
+    <!-- Order item placeholders in Nyanja -->
+    <string name="order_id_placeholder">Order #1</string>
+    <string name="date_placeholder">01/01/2026 10:00</string>
+    <string name="total_placeholder">K 0.00</string>
+    <string name="status_placeholder">PENDING</string>
+
+    <!-- My Orders Screen - Nyanja/Chichewa -->
+    <string name="no_orders_title">Palibe order</string>
+    <string name="no_orders_message">Simunayambe mwayika order.\nYambani kugula kuti muyike order yanu yoyamba!</string>
+    <string name="shop_now">GULANI TSOPANO</string>
+    <string name="my_orders">Ma Order Anga</string>
+
+    <!-- Activity Titles -->
+    <string name="title_login">Lowani</string>
+    <string name="title_register">Pangani Account</string>
+    <string name="title_home">Pa Nyumba</string>
+    <string name="title_cart">Katundu</string>
+    <string name="title_profile">Mbiri Yanu</string>
+
+    <!-- Button Texts -->
+    <string name="btn_login">Lowani</string>
+    <string name="btn_register">Pangani Account</string>
+    <string name="btn_logout">Tulukani</string>
+    <string name="btn_save">Sungirani</string>
+    <string name="btn_cancel">Lekani</string>
+    <string name="btn_ok">Chabwino</string>
+    <string name="btn_shop_now">Gulani Tsopano</string>
+    <string name="btn_back_to_home">Bwererani ku Nyumba</string>
+    <string name="btn_checkout">Lipirani</string>
+    <string name="btn_place_order">Pangani Order</string>
+    <string name="btn_continue_shopping">Pitilizani Kugula</string>
+    <string name="btn_go_to_login">Pitani ku Lowani</string>
+    <string name="btn_go_to_register">Pitani ku Kupanga Account</string>
+
+    <!-- Button Status Texts -->
+    <string name="logging_in">Kulowa…</string>
+    <string name="creating_account">Kupanga Account…</string>
+    <string name="processing">Kukonzekera…</string>
+
+    <!-- Hint Texts -->
+    <string name="hint_full_name">Dzina Lanu</string>
+    <string name="hint_confirm_password">Tsimikizani Chinsinsi</string>
+    <string name="hint_phone">Nambala ya Foni</string>
+    <string name="hint_address">Adilesi</string>
+    <string name="hint_search">Fufuzani…</string>
+
+    <!-- Link Texts -->
+    <string name="link_already_have_account">Muli kale ndi akaunti? </string>
+    <string name="link_dont_have_account">Mulibe akaunti? </string>
+    <string name="link_login">Lowani</string>
+    <string name="link_register">Pangani Account</string>
+    <string name="link_forgot_password">Muyiwala Chinsinsi? </string>
+
+    <!-- Error Messages -->
+    <string name="error_passwords_not_match">Mawu achinsinsi sakufanana</string>
+    <string name="error_password_too_short">Chinsinsi chikhale ndi zilembo 6</string>
+    <string name="error_invalid_email">Imelo siyolondola</string>
+    <string name="error_network">Vuto la netiweki. Yesaninso</string>
+    <string name="error_general">Chalakwika. Yesaninso</string>
+    <string name="error_user_not_found">Wogwiritsa ntchito sanapezeke</string>
+    <string name="error_firebase_user_null">Cholakwika: Firebase user kulibe</string>
+
+    <!-- Success Messages -->
+    <string name="success_registration">Mwagwira! Mwapanga account</string>
+    <string name="success_login">Mwagwira! Mwalowa</string>
+    <string name="success_logout">Mwatuluka bwino</string>
+    <string name="success_order_placed">Mwagwira! Order yapangidwa</string>
+    <string name="success_profile_updated">Mwagwira! Mbiri yasinthidwa</string>
+
+    <!-- Warning Messages -->
+    <string name="warning_cloud_sync_failed">Mwapanga account bwino, koma kusunga ku cloud kwalephera</string>
+    <string name="warning_no_internet">Palibe intaneti</string>
+
+    <!-- Empty State Messages -->
+    <string name="empty_cart">Katundu wanu mulibe</string>
+    <string name="empty_orders">Palibe ma order</string>
+    <string name="empty_products">Palibe zogula</string>
+
+    <!-- Product Related -->
+    <string name="label_price">Mtengo</string>
+    <string name="label_quantity">Kuchuluka</string>
+    <string name="label_total">Zonse</string>
+    <string name="label_subtotal">Pansi pa zonse</string>
+    <string name="label_shipping">Kutumiza</string>
+    <string name="label_tax">Msonkho</string>
+    <string name="label_products">Zogula</string>
+    <string name="label_description">Mafotokozedwe</string>
+
+    <!-- Order Related -->
+    <string name="label_order_date">Tsiku la Order</string>
+    <string name="label_order_status">Mkhalidwe</string>
+    <string name="label_payment_method">Njira Yolipirira</string>
+    <string name="label_shipping_address">Adilesi Yotumizira</string>
+    <string name="label_order_summary">Chidule cha Order</string>
+    <string name="label_status_pending">Chikudikirira</string>
+    <string name="label_status_processing">Chikukonzekera</string>
+    <string name="label_status_shipped">Chatumizidwa</string>
+    <string name="label_status_delivered">Chafika</string>
+    <string name="label_status_cancelled">Chakanidwa</string>
+
+    <!-- User Related -->
+    <string name="label_name">Dzina</string>
+    <string name="label_email">Imelo</string>
+    <string name="label_edit_profile">Sinzani Mbiri</string>
+    <string name="label_my_orders">Ma Order Anga</string>
+    <string name="label_settings">Zokonda</string>
+
+    <!-- Payment Methods -->
+    <string name="payment_cash_on_delivery">Lipirani Ndalama Pofika</string>
+    <string name="payment_mobile_money">Ndalama za Foni</string>
+    <string name="payment_card">Khadi</string>
+
+    <!-- Zambian Products -->
+    <string name="product_chibwantu">Chibwantu</string>
+    <string name="product_chibwantu_desc">Chakumwa cha chimanga chachikhalidwe</string>
+    <string name="product_chikanda">Chikanda</string>
+    <string name="product_chikanda_desc">Chakudya chachikhalidwe cha ku Africa</string>
+    <string name="product_ifinkubala">Ifinkubala</string>
+    <string name="product_ifinkubala_desc">Mphutsi zouma zopatsa mphamvu</string>
+    <string name="product_citenge">Citenge</string>
+    <string name="product_citenge_desc">Nsalu ya 6 yards</string>
+    <string name="product_mongu_rice">Mpunga wa Mongu</string>
+    <string name="product_mongu_rice_desc">Mpunga wapamwamba wa ku Barotse</string>
+
+
+
+
+    <!-- Button text in Nyanja -->
+
+
+
+</resources>

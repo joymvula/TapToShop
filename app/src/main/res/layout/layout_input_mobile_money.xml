@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Enter your Mobile Money Number:"
+        android:textSize="14sp"
+        android:layout_marginBottom="8dp"
+        android:textColor="#666666"/>
+
+    <EditText
+        android:id="@+id/etMobileNumber"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="e.g. 097... or 096..."
+        android:inputType="phone"
+        android:background="@drawable/edittext_background"
+        android:padding="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="You will receive a prompt to authorize this payment."
+        android:textSize="12sp"
+        android:layout_marginTop="4dp"
+        android:fontStyle="italic"/>
+</LinearLayout>
